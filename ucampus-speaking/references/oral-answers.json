@@ -1,0 +1,395 @@
+{
+  "schema": 1,
+  "edition": "新探索研究生英语（基础级）视听说教程",
+  "isbn": "978-7-5213-2799-1",
+  "entries": [
+    {
+      "id": "u01-l1-repeat",
+      "unit": 1,
+      "section": "Listening 1 → Oral practice",
+      "task": "Task 2",
+      "mode": "repeat",
+      "basis": "course-audio",
+      "result": "已提交，4/4，95.8 分",
+      "segments": [
+        "Absolutely. This was a common response during my research in which I interviewed one hundred students.",
+        "Sure. Lots of students decide on a career and then change their minds. It seems pretty common.",
+        "My defining moment was a little different. It was when I made the swim team earlier this year.",
+        "Well, I definitely was influenced by my friends in my study group."
+      ]
+    },
+    {
+      "id": "u01-speaking-repeat",
+      "unit": 1,
+      "section": "Speaking skill → Oral practice",
+      "task": "Task 2",
+      "mode": "repeat",
+      "basis": "course-audio-and-script",
+      "result": "已提交，2/2，94 分",
+      "segments": [
+        "Definitely, but it was a lot of fun, Miki. Before we returned, I went horseback riding, too.",
+        "Sounds like a really positive experience. Thanks for telling me about it, Alex."
+      ]
+    },
+    {
+      "id": "u01-speaking-miki",
+      "unit": 1,
+      "section": "Speaking skill → Oral practice",
+      "task": "Task 3",
+      "mode": "roleplay",
+      "basis": "course-script",
+      "role": "Miki",
+      "result": "六句均出分，已提交",
+      "segments": [
+        "Oh, right. So, where did you go?",
+        "So, what happened when you got there, Alex?",
+        "Wow! That sounds amazing.",
+        "It sounds like you and your family like to be active! Didn't you get tired?",
+        "Nice. And how did this trip affect your self-identity?",
+        "Sounds like a really positive experience. Thanks for telling me about it, Alex."
+      ]
+    },
+    {
+      "id": "u01-speaking-volunteer",
+      "unit": 1,
+      "section": "Speaking skill → Skill enhancement",
+      "task": "Task 1",
+      "mode": "upload",
+      "basis": "original-example",
+      "result": "标注虚构示例后已上传，1/1",
+      "segments": [
+        "Here is a fictional example about volunteering. Last autumn, I joined a group that cleaned up a park near our school. Before I went, I thought we would just pick up a few bottles. When I arrived, the organizers showed us how to sort the waste safely and gave each group a small area to cover. My partner and I kept a tally of what we found. By the end of the morning, our bags were full, and several people walking by had asked how they could help next time. It was when I saw those people take an interest that I realized volunteering can change how a community looks after a shared space. After that, I understood why small, regular efforts are worth making."
+      ]
+    },
+    {
+      "id": "u02-l1-repeat",
+      "unit": 2,
+      "section": "Listening 1 → Oral practice",
+      "task": "Task 2",
+      "mode": "repeat",
+      "basis": "course-audio",
+      "note": "第 2 条补齐听到的开头，重新使用时核对说话人。既往 90.8 分对应提交时的版本，不是此修订文本的实测分数。",
+      "segments": [
+        "That's so interesting. I'd never have thought of that.",
+        "I completely agree with him. I wish all products were designed like that.",
+        "Yeah, I need something simple. Oh, how about the glass measuring jug you use in the kitchen?",
+        "Right. And I'm sure Rams would agree it's understandable. It's not like you need instructions to use it."
+      ]
+    },
+    {
+      "id": "u02-l2-arvr",
+      "unit": 2,
+      "section": "Listening 2 → Oral practice",
+      "task": "Task 2",
+      "mode": "read-aloud",
+      "basis": "course-script",
+      "result": "已提交，2/2，92.5 分",
+      "segments": [
+        "Let me start by talking about augmented reality, or AR for short. AR has been in the news recently because of its use in the game Pokémon Go, which came out in 2016 and became a worldwide hit. To \"augment\" something means to add to it or increase it. For example, you can augment your income by taking a second job or working more hours. Augmented reality is a technology that layers or puts computer-generated content on top of the existing environment.",
+        "Now, in contrast, virtual reality is an artificial, computer-generated simulation – that means a copy – of a real-world environment. You enter the VR world via a specially designed headset like the one in this photo. The headset completely shuts out the real world and allows you to enter the virtual world. It feels real. The action takes place all around you, in 360 degrees, so you’re encouraged to turn around, look around, and move around, like in the real world. The people and objects are three-dimensional and they appear life-size."
+      ]
+    },
+    {
+      "id": "u02-speaking-repeat",
+      "unit": 2,
+      "section": "Speaking skill → Oral practice",
+      "task": "Task 2",
+      "mode": "repeat",
+      "basis": "course-audio",
+      "result": "已提交，2/2，90.5 分",
+      "segments": [
+        "I think we could solve the first problem if the umbrella frame were made of plastic. Plastic is flexible, so the umbrella would bend instead of breaking in the wind.",
+        "I have an idea. What if our umbrella had a button you could press to close it instantly?"
+      ]
+    },
+    {
+      "id": "u02-speaking-sevban",
+      "unit": 2,
+      "section": "Speaking skill → Oral practice",
+      "task": "Task 3",
+      "mode": "roleplay",
+      "basis": "course-script",
+      "role": "Sevban",
+      "result": "两句 93、95 分，已提交",
+      "segments": [
+        "Oh, I agree! I get hit by umbrellas all the time; it's really annoying.",
+        "I have an idea. You know how a lot of umbrellas have a button you can push so they open instantly? What if our umbrella had a button you could press to close it instantly? All we'd need is a simple mechanism."
+      ]
+    },
+    {
+      "id": "u03-l1-repeat",
+      "unit": 3,
+      "section": "Listening 1 → Oral practice",
+      "task": "Task 2",
+      "mode": "repeat",
+      "basis": "course-audio",
+      "result": "已提交，4/4，91 分",
+      "segments": [
+        "So you mean that we don't need to worry about germs so much?",
+        "It is a classic myth that money is a major way that diseases are spread.",
+        "Exactly. There are lots of different ways to get sick on a plane, but it's very unlikely to be caused by recirculated air.",
+        "Well, in fact, some say it is. Kitchens are, in fact, full of germs that can cause diseases."
+      ]
+    },
+    {
+      "id": "u03-l2-cause-effect",
+      "unit": 3,
+      "section": "Listening 2 → Oral practice",
+      "task": "Task 2",
+      "mode": "read-aloud",
+      "basis": "course-script",
+      "result": "已提交，2/2，93 分",
+      "suggestedRate": 1,
+      "segments": [
+        "Before the dam was built, there were a lot of prawns in the Senegal River. The prawns ate the freshwater snails that lived in the river, and there was no disease. However, the construction of the dam caused the water in the river to flow differently. This, in turn, changed the prawns' natural habitat, and eventually led to their extinction. With no natural predators left in the river, the snail population increased rapidly. More snails led to more parasites in the river water, and suddenly many people started to become very ill.",
+        "The most commonly eaten meat in the area was the flying fox, and the flying fox regularly ate the seeds of the cycad plant. This meant that there was a high concentration of toxins in the meat of the flying fox, and this fact led researchers to suspect that the meat may have been the cause of the epidemic."
+      ]
+    },
+    {
+      "id": "u03-speaking-repeat",
+      "unit": 3,
+      "section": "Speaking skill → Oral practice",
+      "task": "Task 2",
+      "mode": "repeat",
+      "basis": "course-audio",
+      "result": "已提交，2/2，95.5 分",
+      "segments": [
+        "Yes, he had a headache. He also had a slight fever and was very thirsty.",
+        "That doesn't seem right, does it? Do you mean a sunburn could cause his fever and headache? It couldn't have been just a bad sunburn."
+      ]
+    },
+    {
+      "id": "u03-speaking-filip",
+      "unit": 3,
+      "section": "Speaking skill → Oral practice",
+      "task": "Task 3",
+      "mode": "roleplay",
+      "basis": "course-script",
+      "role": "Filip",
+      "result": "三句均出分，已提交",
+      "segments": [
+        "Those are classic influenza symptoms. It sounds like he might have caught influenza, doesn't it?",
+        "Sure, that's possible. But we also know that he works outdoors all day in the hot sun. He could have had a very bad sunburn, couldn't he?",
+        "Sure, it could have been. A bad sunburn can be serious. It can make people feel very sick."
+      ]
+    },
+    {
+      "id": "u04-l1-repeat",
+      "unit": 4,
+      "section": "Listening 1 → Oral practice",
+      "task": "Task 2",
+      "mode": "repeat",
+      "basis": "course-audio",
+      "result": "已提交，4/4，95.5 分",
+      "segments": [
+        "That's right. The coffee shop tale is an example of indirect reciprocity.",
+        "Acts of kindness go beyond our local community too, don't they?",
+        "What makes someone risk his or her life for a total stranger?",
+        "Yes, it's in everyone's best interest to create a sense of community."
+      ]
+    },
+    {
+      "id": "u04-l2-green-fill",
+      "unit": 4,
+      "section": "Listening 2 → Oral practice",
+      "task": "Task 1",
+      "mode": "fill-and-read",
+      "basis": "course-script",
+      "blanks": [
+        "overuse",
+        "conservation",
+        "access to",
+        "limited natural resources"
+      ],
+      "result": "已提交，4/4，89.8 分",
+      "suggestedRate": -2,
+      "segments": [
+        "We need to meet the current needs of people living today, but we can't overuse our resources now because this might make it difficult for future generations to meet their needs.",
+        "The third principle is resource conservation. This means the building materials that are used have some recycled content, and come from local sources when possible.",
+        "For example, there is easy access to public transport like buses and subways and shopping.",
+        "The main reason to reuse old buildings is that it saves limited natural resources like wood and metal."
+      ]
+    },
+    {
+      "id": "u04-l2-green-para",
+      "unit": 4,
+      "section": "Listening 2 → Oral practice",
+      "task": "Task 2",
+      "mode": "read-aloud",
+      "basis": "course-script",
+      "result": "已提交，2/2，87.5 分",
+      "segments": [
+        "With this in mind, today we're going to look at a trend called green building, which emphasizes using renewable resources, like sunlight, and being environmentally responsible. First, I'll explain some principles of green building. Then, I plan to focus on two aspects: energy use and reuse of existing buildings, such as those built for the Olympics.",
+        "Regarding the principles of green building: The first principle of green building is that the building is energy-efficient; for example, it has windows that let in a lot of sunlight, but not heat or cold. The building also uses renewable energy sources, such as solar and wind power for some electricity, heating, and cooling."
+      ]
+    },
+    {
+      "id": "u04-speaking-repeat",
+      "unit": 4,
+      "section": "Speaking skill → Oral practice",
+      "task": "Task 2",
+      "mode": "repeat",
+      "basis": "course-audio-and-script",
+      "result": "已提交，2/2，96 分",
+      "segments": [
+        "I think that more water than we realize is wasted in farming. If we use the drip irrigation system for crops, we'd use a lot less water. It would save a huge amount.",
+        "Have you heard about reclaimed water? I recently read that some sewage treatment plants can purify wastewater until it could be consumed again."
+      ]
+    },
+    {
+      "id": "u04-speaking-al",
+      "unit": 4,
+      "section": "Speaking skill → Oral practice",
+      "task": "Task 3",
+      "mode": "roleplay",
+      "basis": "course-script",
+      "role": "Al",
+      "result": "四句均出分，已提交",
+      "segments": [
+        "How does the drip irrigation system work?",
+        "Have you heard about reclaimed water? I recently read that some sewage-treatment plants can purify wastewater until it could be consumed again.",
+        "No, you don't have to worry about your drinking water coming right from a sewage-treatment plant. Reclaimed water can be used for multiple purposes such as flushing the toilet, watering the grass, and washing cars.",
+        "Exactly."
+      ]
+    },
+    {
+      "id": "u05-l1-repeat",
+      "unit": 5,
+      "section": "Listening 1 → Oral practice",
+      "task": "Task 2",
+      "mode": "repeat",
+      "basis": "course-audio",
+      "result": "已提交，4/4，94.3 分",
+      "segments": [
+        "Well, it means any illegal activity committed with a computer. Now, that covers a broad range of criminal activities.",
+        "Sure, malware isn't a crime. It's a general term that means any kind of software that's used to commit crimes.",
+        "It means illegally downloading movies, books, or music from the internet without paying for the content.",
+        "It's a serious crime. It's expensive to make movies, and if companies can't make money, they'll stop doing it."
+      ]
+    },
+    {
+      "id": "u05-l2-id-theft",
+      "unit": 5,
+      "section": "Listening 2 → Oral practice",
+      "task": "Task 2",
+      "mode": "read-aloud",
+      "basis": "course-script",
+      "result": "已提交，1/1，93 分",
+      "suggestedRate": 1,
+      "segments": [
+        "All right, now to begin, what is identity theft? The government defines it like this on its website, and I quote: \"Identity theft is a crime where a thief steals your personal information, such as your full name or your social security number, to commit fraud.\" In addition, the well-known consumer protection organization Consumer Reports explained in a 2016 article that identity theft can be either low- or high-tech. Low-tech theft can happen when a thief looks over your shoulder while you're typing in your personal identification number at an ATM. This is called \"shoulder surfing.\" High-tech ID theft happens when a thief hacks into your computer or your phone."
+      ]
+    },
+    {
+      "id": "u05-speaking-penalty-fill",
+      "unit": 5,
+      "section": "Speaking skill → Oral practice",
+      "task": "Task 1",
+      "mode": "fill-and-read",
+      "basis": "local-synthesis-transcript",
+      "result": "此前该五句任务已提交，87.4 分。这里的文本取自本地音频，以题面为准。",
+      "segments": [
+        "Could someone review the case for me? What was it about?",
+        "He was arrested, and sentenced to two hundred hours of community service.",
+        "I think the sentence was much too light. At his trial, he admitted knowing it was wrong to hack into the database.",
+        "I think he should have been sentenced to at least six months in jail, plus a fine.",
+        "I strongly believe jail is the wrong punishment for this type of crime."
+      ]
+    },
+    {
+      "id": "u05-speaking-repeat",
+      "unit": 5,
+      "section": "Speaking skill → Oral practice",
+      "task": "Task 2",
+      "mode": "repeat",
+      "basis": "course-audio",
+      "result": "已提交，2/2，96 分",
+      "segments": [
+        "I understand what Felicity is saying, but I disagree with her about the sentence.",
+        "Yes, I believe what Al said is reasonable in a sense, but I personally think this kind of behavior might deserve heavier punishment."
+      ]
+    },
+    {
+      "id": "u05-speaking-al",
+      "unit": 5,
+      "section": "Speaking skill → Oral practice",
+      "task": "Task 3",
+      "mode": "roleplay",
+      "basis": "course-script",
+      "role": "Al",
+      "result": "该角色 94 分，已提交",
+      "segments": [
+        "I understand what Felicity is saying, but I disagree with her about the sentence. He was only 18 years old. It was his first semester, and he was having a lot of trouble adjusting to college. Plus, he was under a lot of pressure from his parents to do well. I know, that's not an excuse for hacking, but it shows the kind of stress he was under. I strongly believe jail is the wrong punishment for this type of crime. Community service seems about right. He could spend that time teaching kids and senior citizens how to use computers – legally!"
+      ]
+    },
+    {
+      "id": "u06-l1-repeat",
+      "unit": 6,
+      "section": "Listening 1 → Oral practice",
+      "task": "Task 2",
+      "mode": "repeat",
+      "basis": "local-synthesis-transcript",
+      "note": "本地示范音频的转写。既往该任务得分偏低，先逐条对照原音。",
+      "segments": [
+        "It's totally irresponsible, and on weekends, the noise is unbearable. Believe me, these troublemakers don't care if their noise pollution destroys other people's lives.",
+        "We use computers to steer the drones, which means the whole process can be controlled by a single engineer in our headquarters, hundreds of miles away.",
+        "But remember that most drones these days are used for commercial reasons. They distribute parcels or look for oil leaks in remote pipelines.",
+        "Until you can give us a satisfactory answer to that question, I'm afraid I'm going to continue the campaign for drone-free skies."
+      ]
+    },
+    {
+      "id": "u06-l2-repeat",
+      "unit": 6,
+      "section": "Listening 2 → Oral practice",
+      "task": "Task 2",
+      "mode": "repeat",
+      "basis": "local-synthesis-transcript",
+      "note": "由本地音频转写，按当前题目核对题型、顺序和原句。",
+      "segments": [
+        "Well, a hyperloop is basically a revolutionary new form of transportation. The whole world will be talking about hyperloops in a few years.",
+        "The basic idea is that people travel in small vehicles called pods, which travel through long tubes from one city to another.",
+        "The train is touching the tracks, so the tracks are literally fighting against the engine, dragging the train backward.",
+        "But in a hyperloop, you can pump out most of the air from the tube. So that means there's almost no air, and therefore no air resistance, as well as no friction."
+      ]
+    },
+    {
+      "id": "u06-speaking-fill",
+      "unit": 6,
+      "section": "Speaking skill → Oral practice",
+      "task": "任务以当前题面为准",
+      "mode": "fill-and-read",
+      "basis": "local-synthesis-transcript",
+      "note": "由本地音频转写，未核准任务序号。",
+      "segments": [
+        "There are many problems with drones. I'd like to focus on the noise first.",
+        "Maybe you think it's not so bad with the occasional drone flying nearby.",
+        "Drones may bring convenience and save us money, but they'll also bring a whole lot of health problems.",
+        "When we have drones delivering our groceries, snacks, and bubble tea, we'll have no reason to leave the house."
+      ]
+    },
+    {
+      "id": "u06-speaking-impact",
+      "unit": 6,
+      "section": "Speaking skill → Skill enhancement",
+      "task": "科技主张评述",
+      "mode": "upload",
+      "basis": "original-example",
+      "note": "开放题范例。核对是否与页面上的三幅图和输出要求一致。",
+      "segments": [
+        "Drones, driverless cars, and space exploration can all be useful, but the claims in these pictures go too far. First, imagine you live in a rural area and need medicine quickly. A drone delivery could make a real difference. For several heavy parcels going to the same neighborhood, however, one van may be more practical. Wind, battery range, and noise matter too. Second, driverless cars do not automatically make people inactive. An autonomous shuttle could help an older passenger reach a train station or a park. The outcome depends on whether communities also make walking and cycling convenient. Finally, space exploration is expensive, and urgent problems on Earth deserve funding. Yet work in space can also serve people on Earth. Satellites help forecast storms and monitor wildfires, giving communities more time to act. For each technology, I would ask where it solves a real problem and what it costs to use. That is a better basis for a decision than a sweeping promise or prediction."
+      ]
+    },
+    {
+      "id": "u06-speaking-drone-debate",
+      "unit": 6,
+      "section": "Speaking task",
+      "task": "商用无人机辩论",
+      "mode": "upload",
+      "basis": "original-example",
+      "note": "开放题改编示例，练习双方发言。",
+      "segments": [
+        "Team 1. Imagine a storm cuts off a rural road and a patient is waiting for medicine. A drone could deliver a small package without sending a driver onto a dangerous route. Drones can also inspect roofs and power lines from a distance. I support expanding commercial use where there is a clear public benefit. Team 2. Faster delivery sounds appealing, but more flights can increase noise and affect privacy. Safeguards should come before expansion. Team 1. I propose limited routes and hours, with operators reporting incidents. We could begin with medical delivery and compare it with existing options. Team 2. Before expanding, publish pilot results on costs, reliability, and complaints. Team 1. We agree on testing first. Expand where the service performs better and where communities have a say."
+      ]
+    }
+  ]
+}
